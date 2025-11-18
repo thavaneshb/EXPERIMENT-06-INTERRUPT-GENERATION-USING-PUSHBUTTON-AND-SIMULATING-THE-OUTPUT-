@@ -1,5 +1,5 @@
-Name : Sushmitha Gembunathan
-Register No : 212224040342
+## Name : thavanesh B
+## Register No : 212224040352
 
 ## EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 
